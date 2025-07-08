@@ -1,3 +1,15 @@
+# Data Context and Setup
+
+This repository contains scripts and configurations for initializing data projects with clean, consistent, and reproducible environments. It is designed to streamline the setup process for analytics and data engineering workflows.
+
+## 🚀 Features
+
+- Organized folder structure for data projects
+- Configurations for Python virtual environments (e.g., `pyenv`, `poetry`)
+- Sample data ingestion and preprocessing logic
+- Environment management for reproducibility
+- Support for scalable extension into ETL pipelines or ML workflows
+
 ## Objectives of the module
 
 We will analyze a dataset provided by an e-commerce marketplace called **Olist** to answer the CEO's question:
